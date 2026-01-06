@@ -13,11 +13,11 @@ This is not a medical product. It is an academic and learning-based project inte
 - Prediction on new MRI images
 
 ## 🧠 Tech Stack
-- Programming Language: Python
--- Libraries & Frameworks:
--- TensorFlow / Keras
--- NumPy
--- Pandas
--- OpenCV
--- Matplotlib
--- Model Type: Convolutional Neural Network (CNN)
+### Programming Language: Python
+- Libraries & Frameworks:
+- TensorFlow / Keras
+- NumPy
+- Pandas
+- OpenCV
+- Matplotlib
+- Model Type: Convolutional Neural Network (CNN)
